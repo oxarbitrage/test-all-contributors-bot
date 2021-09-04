@@ -172,6 +172,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "str4d",
+      "name": "str4d",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4993799?v=4",
+      "profile": "https://github.com/str4d",
+      "contributions": [
+        "code",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
