@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Contributors ✨
@@ -26,6 +26,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/str4d"><img src="https://avatars.githubusercontent.com/u/4993799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>str4d</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=str4d" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Astr4d" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/daira"><img src="https://avatars.githubusercontent.com/u/643204?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daira Hopwood</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Adaira" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://vramana.github.io/blog"><img src="https://avatars.githubusercontent.com/u/3112509?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ramana Venkata</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=vramana" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/fanatid/notes"><img src="https://avatars.githubusercontent.com/u/2633065?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kirill Fomichev</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=fanatid" title="Code">💻</a></td>
   </tr>
 </table>
 

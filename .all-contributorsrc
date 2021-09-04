@@ -200,6 +200,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "fanatid",
+      "name": "Kirill Fomichev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2633065?v=4",
+      "profile": "https://github.com/fanatid/notes",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
