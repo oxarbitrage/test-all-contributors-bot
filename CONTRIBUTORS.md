@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://oxarbitrage.com/"><img src="https://avatars.githubusercontent.com/u/21685097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alfredo Garcia</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=oxarbitrage" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Aoxarbitrage" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://oxarbitrage.com/"><img src="https://avatars.githubusercontent.com/u/21685097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alfredo Garcia</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=oxarbitrage" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Aoxarbitrage" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Aoxarbitrage" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=oxarbitrage" title="Documentation">📖</a> <a href="#ideas-oxarbitrage" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-oxarbitrage" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-oxarbitrage" title="Maintenance">🚧</a> <a href="#research-oxarbitrage" title="Research">🔬</a> <a href="#tool-oxarbitrage" title="Tools">🔧</a></td>
   </tr>
 </table>
 

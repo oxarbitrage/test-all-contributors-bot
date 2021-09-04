@@ -17,7 +17,14 @@
       "profile": "http://oxarbitrage.com/",
       "contributions": [
         "code",
-        "review"
+        "review",
+        "bug",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "research",
+        "tool"
       ]
     }
   ],
