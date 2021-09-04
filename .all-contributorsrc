@@ -257,7 +257,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "chelseakomlo",
+      "name": "Chelsea Komlo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2530163?v=4",
+      "profile": "http://chelseakomlo.com",
+      "contributions": [
+        "review"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
