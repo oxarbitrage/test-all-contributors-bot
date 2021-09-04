@@ -145,6 +145,24 @@
         "research",
         "review"
       ]
+    },
+    {
+      "login": "yaahc",
+      "name": "Jane Lusby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1993852?v=4",
+      "profile": "https://yaah.dev/",
+      "contributions": [
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "question",
+        "research",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
