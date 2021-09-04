@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Contributors ✨
@@ -32,6 +32,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://www.dimitrisapostolou.com/"><img src="https://avatars.githubusercontent.com/u/227442?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dimitris Apostolou</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Arex4539" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=rex4539" title="Documentation">📖</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=rex4539" title="Tests">⚠️</a></td>
     <td align="center"><a href="https://blog.gtank.cc/"><img src="https://avatars.githubusercontent.com/u/622063?v=4?s=100" width="100px;" alt=""/><br /><sub><b>George Tankersley</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=gtank" title="Code">💻</a></td>
     <td align="center"><a href="https://gist.github.com/kiminuo/6e8de88216837eebd02edf9c3d1bc1de"><img src="https://avatars.githubusercontent.com/u/58662979?v=4?s=100" width="100px;" alt=""/><br /><sub><b>kiminuo</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=kiminuo" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/preston-evans98"><img src="https://avatars.githubusercontent.com/u/32944016?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Preston Evans</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=preston-evans98" title="Code">💻</a></td>
   </tr>
 </table>
 
