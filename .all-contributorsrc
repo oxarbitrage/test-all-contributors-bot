@@ -47,6 +47,28 @@
         "security",
         "tool"
       ]
+    },
+    {
+      "login": "dconnolly",
+      "name": "Deirdre Connolly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/552961?v=4",
+      "profile": "https://github.com/dconnolly",
+      "contributions": [
+        "audio",
+        "bug",
+        "code",
+        "doc",
+        "ideas",
+        "infra",
+        "maintenance",
+        "mentoring",
+        "research",
+        "review",
+        "security",
+        "talk",
+        "tool",
+        "video"
+      ]
     }
   ],
   "contributorsPerLine": 7
