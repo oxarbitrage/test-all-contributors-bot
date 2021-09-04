@@ -209,6 +209,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "rex4539",
+      "name": "Dimitris Apostolou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/227442?v=4",
+      "profile": "http://www.dimitrisapostolou.com/",
+      "contributions": [
+        "bug",
+        "doc",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7
