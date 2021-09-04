@@ -163,6 +163,15 @@
         "research",
         "review"
       ]
+    },
+    {
+      "login": "ebfull",
+      "name": "ebfull",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3794471?v=4",
+      "profile": "https://github.com/ebfull",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

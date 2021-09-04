@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Contributors ✨
@@ -22,6 +22,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://hdevalence.ca/"><img src="https://avatars.githubusercontent.com/u/44879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Henry de Valence</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Ahdevalence" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=hdevalence" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=hdevalence" title="Documentation">📖</a> <a href="#ideas-hdevalence" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-hdevalence" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-hdevalence" title="Maintenance">🚧</a> <a href="#research-hdevalence" title="Research">🔬</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Ahdevalence" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://yaah.dev/"><img src="https://avatars.githubusercontent.com/u/1993852?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jane Lusby</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Ayaahc" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=yaahc" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=yaahc" title="Documentation">📖</a> <a href="#ideas-yaahc" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-yaahc" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-yaahc" title="Maintenance">🚧</a> <a href="#mentoring-yaahc" title="Mentoring">🧑‍🏫</a> <a href="#question-yaahc" title="Answering Questions">💬</a> <a href="#research-yaahc" title="Research">🔬</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Ayaahc" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/ebfull"><img src="https://avatars.githubusercontent.com/u/3794471?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ebfull</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=ebfull" title="Code">💻</a></td>
   </tr>
 </table>
 
