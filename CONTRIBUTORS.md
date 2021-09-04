@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Contributors ✨
@@ -24,6 +24,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://yaah.dev/"><img src="https://avatars.githubusercontent.com/u/1993852?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jane Lusby</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Ayaahc" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=yaahc" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=yaahc" title="Documentation">📖</a> <a href="#ideas-yaahc" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-yaahc" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-yaahc" title="Maintenance">🚧</a> <a href="#mentoring-yaahc" title="Mentoring">🧑‍🏫</a> <a href="#question-yaahc" title="Answering Questions">💬</a> <a href="#research-yaahc" title="Research">🔬</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Ayaahc" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/ebfull"><img src="https://avatars.githubusercontent.com/u/3794471?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ebfull</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=ebfull" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/str4d"><img src="https://avatars.githubusercontent.com/u/4993799?v=4?s=100" width="100px;" alt=""/><br /><sub><b>str4d</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=str4d" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Astr4d" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/daira"><img src="https://avatars.githubusercontent.com/u/643204?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daira Hopwood</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Adaira" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
