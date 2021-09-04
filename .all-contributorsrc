@@ -220,6 +220,15 @@
         "doc",
         "test"
       ]
+    },
+    {
+      "login": "gtank",
+      "name": "George Tankersley",
+      "avatar_url": "https://avatars.githubusercontent.com/u/622063?v=4",
+      "profile": "https://blog.gtank.cc/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
