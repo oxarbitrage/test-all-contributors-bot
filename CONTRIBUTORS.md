@@ -1,5 +1,5 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Contributors ✨
@@ -12,6 +12,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://oxarbitrage.com/"><img src="https://avatars.githubusercontent.com/u/21685097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alfredo Garcia</b></sub></a><br /><a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=oxarbitrage" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Aoxarbitrage" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Aoxarbitrage" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=oxarbitrage" title="Documentation">📖</a> <a href="#ideas-oxarbitrage" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-oxarbitrage" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-oxarbitrage" title="Maintenance">🚧</a> <a href="#research-oxarbitrage" title="Research">🔬</a> <a href="#tool-oxarbitrage" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/teor2345"><img src="https://avatars.githubusercontent.com/u/8951843?v=4?s=100" width="100px;" alt=""/><br /><sub><b>teor</b></sub></a><br /><a href="#blog-teor2345" title="Blogposts">📝</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/issues?q=author%3Ateor2345" title="Bug reports">🐛</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=teor2345" title="Code">💻</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/commits?author=teor2345" title="Documentation">📖</a> <a href="#ideas-teor2345" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-teor2345" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-teor2345" title="Maintenance">🚧</a> <a href="#mentoring-teor2345" title="Mentoring">🧑‍🏫</a> <a href="#question-teor2345" title="Answering Questions">💬</a> <a href="#research-teor2345" title="Research">🔬</a> <a href="https://github.com/oxarbitrage/test-all-contributors-bot/pulls?q=is%3Apr+reviewed-by%3Ateor2345" title="Reviewed Pull Requests">👀</a> <a href="#security-teor2345" title="Security">🛡️</a> <a href="#tool-teor2345" title="Tools">🔧</a></td>
   </tr>
 </table>
 
