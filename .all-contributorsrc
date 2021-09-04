@@ -116,6 +116,19 @@
         "research",
         "review"
       ]
+    },
+    {
+      "login": "mpguerra",
+      "name": "Pili Guerra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1311133?v=4",
+      "profile": "https://github.com/mpguerra",
+      "contributions": [
+        "doc",
+        "ideas",
+        "maintenance",
+        "projectManagement",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7
